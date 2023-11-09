@@ -83,3 +83,5 @@ useEffect 훅이 없어서
 클릭 이벤트가 발생했을 때 함수가 실행되도록 할 수 있습니다.
 
 ### Q7.  과제를 마친 배포URL
+
+https://2nd-week-exam.vercel.app/
