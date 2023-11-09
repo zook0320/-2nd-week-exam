@@ -60,7 +60,7 @@ const todos = (state = initialState, action) => {
     case ADD_TODO:
       return {
         ...state,
-        // todos: [action.payload], 기존코드
+        // todos: [action.payload],기존코드
         todos: [...state.todos, action.payload],
       };
 
